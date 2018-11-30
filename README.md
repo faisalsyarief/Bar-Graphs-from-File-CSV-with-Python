@@ -15,3 +15,6 @@ Workflow:
 - Masuk ke direktori penyimpanan file python.py
 - Run dengan cara : python python.py
 7. Finish
+
+-----
+[Channel Youtube](https://www.youtube.com/channel/UC3giPltx3oAflwwqs2-YYaQ)
