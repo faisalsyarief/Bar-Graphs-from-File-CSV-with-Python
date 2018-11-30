@@ -1,4 +1,4 @@
-# Bar-Graphs-from-File-CSV-with-Python
+# Bar Graphs from File CSV with Python
 
 Menampilkan data dari file .csv menggunakan python dengan output berbentuk grapik
 
